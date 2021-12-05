@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <AddNewFab /> debe mostrarse correctamente 1`] = `
+<button
+  className="btn btn-primary fab"
+  onClick={[Function]}
+>
+  <i
+    className="fas fa-plus"
+  />
+</button>
+`;
